@@ -1,6 +1,6 @@
 # Ride Pricing Prediction App
 
-This Streamlit application implements a machine learning-based pricing model for ride-sharing services. Users can interact with the app to estimate ride prices based on different input parameters, leveraging a trained Random Forest Regressor. The app also offers insights through various data visualizations comparing model predictions with actual ride prices.
+This Streamlit application implements a machine learning-based pricing model for ride-sharing services. Users can interact with the app to estimate ride prices based on different input parameters, leveraging a trained Gradient Boosting Regressor. The app also offers insights through various data visualizations comparing model predictions with actual ride prices.
 
 ## Contents
 
